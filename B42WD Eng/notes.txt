@@ -1,0 +1,49 @@
+emmet abbreviation=> shift + !
+
+install extensions whatever we needed.
+
+html => hypertext markup language.
+
+html tags=> it always has opening and end tags.=> head, html etc
+
+sometags are self closing tags=> meta etc
+
+div, section, article, span
+
+inline block elements
+
+html , submit
+
+inputs and attributes
+
+elements=> <h1>heading</h1>
+
+tags:<h1></h1>
+
+div tag
+heading tags(h1 to h6)
+paragraph tags
+input tags
+table tags
+ordered list
+unordered list
+
+inline => it occupys only the space needed for the content
+block => it occupys the entire width of the window (doesnt consider the content)
+
+semantic and non semantic tags:
+section/article 
+
+span and para both are used to define a paragraph.
+but span occupys the content od the elements
+para occupys thrpoughput hte width.
+
+attributes are the additional information about the tags and elements.
+a tag=> anchpr tag=> to move into some other website.
+
+
+
+
+
+
+
